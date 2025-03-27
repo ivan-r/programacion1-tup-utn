@@ -1,2 +1,2 @@
 
-## Práctico 2: Git y GitHub
+# Práctico 2: Git y GitHub
